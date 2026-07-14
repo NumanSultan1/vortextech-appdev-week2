@@ -10,4 +10,5 @@ A working to-do list app built with Flutter. Users can add tasks, mark them comp
 - Mark tasks complete with a checkbox (strikethrough style)
 - Delete tasks via swipe or delete icon
 
+
 **Vortex Tech · App Development Internship 2026**
